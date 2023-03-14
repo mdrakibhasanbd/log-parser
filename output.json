@@ -1,7 +1,8 @@
 [
     {
         "Timestamp": "2023-03-14T01:46:17-04:00",
-        "Event": "AONE_BWC_RTR",
+        "Host": "AONE_BWC_RTR",
+        "Event": "prerouting",
         "Input Interface": "1.ether5",
         "Output Interface": "unknown",
         "Source MAC": "2c:c8:1b:ca:7b:2d,",
@@ -17,7 +18,8 @@
     },
     {
         "Timestamp": "2023-03-14T01:46:17-04:00",
-        "Event": "AONE_BWC_RTR",
+        "Host": "AONE_BWC_RTR",
+        "Event": "prerouting",
         "Input Interface": "1.ether5",
         "Output Interface": "unknown",
         "Source MAC": "2c:c8:1b:ca:7b:2d,",
@@ -33,7 +35,8 @@
     },
     {
         "Timestamp": "2023-03-14T01:46:17-04:00",
-        "Event": "AONE_BWC_RTR",
+        "Host": "AONE_BWC_RTR",
+        "Event": "prerouting",
         "Input Interface": "1.ether5",
         "Output Interface": "unknown",
         "Source MAC": "2c:c8:1b:ca:7b:2d,",
@@ -49,7 +52,8 @@
     },
     {
         "Timestamp": "2023-03-14T01:46:17-04:00",
-        "Event": "AONE_BWC_RTR",
+        "Host": "AONE_BWC_RTR",
+        "Event": "prerouting",
         "Input Interface": "1.ether5",
         "Output Interface": "unknown",
         "Source MAC": "2c:c8:1b:ca:7b:2d,",
@@ -65,7 +69,8 @@
     },
     {
         "Timestamp": "2023-03-14T01:46:17-04:00",
-        "Event": "AONE_BWC_RTR",
+        "Host": "AONE_BWC_RTR",
+        "Event": "prerouting",
         "Input Interface": "1.ether5",
         "Output Interface": "unknown",
         "Source MAC": "2c:c8:1b:ca:7b:2d,",
@@ -81,7 +86,8 @@
     },
     {
         "Timestamp": "2023-03-14T01:46:17-04:00",
-        "Event": "AONE_BWC_RTR",
+        "Host": "AONE_BWC_RTR",
+        "Event": "prerouting",
         "Input Interface": "1.ether5",
         "Output Interface": "unknown",
         "Source MAC": "2c:c8:1b:ca:7b:2d,",
@@ -97,7 +103,8 @@
     },
     {
         "Timestamp": "2023-03-14T01:46:17-04:00",
-        "Event": "AONE_BWC_RTR",
+        "Host": "AONE_BWC_RTR",
+        "Event": "prerouting",
         "Input Interface": "1.ether5",
         "Output Interface": "unknown",
         "Source MAC": "2c:c8:1b:ca:7b:2d,",
@@ -113,7 +120,8 @@
     },
     {
         "Timestamp": "2023-03-14T01:46:17-04:00",
-        "Event": "AONE_BWC_RTR",
+        "Host": "AONE_BWC_RTR",
+        "Event": "prerouting",
         "Input Interface": "1.ether5",
         "Output Interface": "unknown",
         "Source MAC": "2c:c8:1b:ca:7b:2d,",
@@ -129,7 +137,8 @@
     },
     {
         "Timestamp": "2023-03-14T01:46:17-04:00",
-        "Event": "AONE_BWC_RTR",
+        "Host": "AONE_BWC_RTR",
+        "Event": "prerouting",
         "Input Interface": "1.ether5",
         "Output Interface": "unknown",
         "Source MAC": "2c:c8:1b:ca:7b:2d,",
@@ -145,7 +154,8 @@
     },
     {
         "Timestamp": "2023-03-14T01:46:17-04:00",
-        "Event": "AONE_BWC_RTR",
+        "Host": "AONE_BWC_RTR",
+        "Event": "prerouting",
         "Input Interface": "1.ether5",
         "Output Interface": "unknown",
         "Source MAC": "2c:c8:1b:ca:7b:2d,",
@@ -161,7 +171,8 @@
     },
     {
         "Timestamp": "2023-03-14T01:46:17-04:00",
-        "Event": "AONE_BWC_RTR",
+        "Host": "AONE_BWC_RTR",
+        "Event": "prerouting",
         "Input Interface": "1.ether5",
         "Output Interface": "unknown",
         "Source MAC": "2c:c8:1b:ca:7b:2d,",
@@ -177,7 +188,8 @@
     },
     {
         "Timestamp": "2023-03-14T01:46:17-04:00",
-        "Event": "AONE_BWC_RTR",
+        "Host": "AONE_BWC_RTR",
+        "Event": "prerouting",
         "Input Interface": "1.ether5",
         "Output Interface": "unknown",
         "Source MAC": "2c:c8:1b:ca:7b:2d,",
@@ -193,7 +205,8 @@
     },
     {
         "Timestamp": "2023-03-14T01:46:17-04:00",
-        "Event": "AONE_BWC_RTR",
+        "Host": "AONE_BWC_RTR",
+        "Event": "prerouting",
         "Input Interface": "1.ether5",
         "Output Interface": "unknown",
         "Source MAC": "2c:c8:1b:ca:7b:2d,",
